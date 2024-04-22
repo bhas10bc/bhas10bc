@@ -4,9 +4,10 @@
   </a>
   <h1>Hi 👋, I'm Bhaskar Chandran</h1>
   <h3>Certified Hyperledger Fabric Practitioner and Blockchain Developer with Expertise in API Development</h3>
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1774872/screenshots/5477893/media/9ae3e55f64faa88211e97c2677081612.gif">
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1774872/screenshots/5477893/media/9ae3e55f64faa88211e97c2677081612.gif">
+
 
 
 
