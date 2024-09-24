@@ -3,7 +3,7 @@
     <img src="https://training.linuxfoundation.org/wp-content/uploads/2023/03/HFCP_BadgeConcepts_v5-1-300x300.png" alt="Certified Hyperledger Fabric Administrator" height="150" width="150" />
   </a>
   <h1>Hi 👋, I'm Bhaskar Chandran</h1>
-  <h3>Certified Hyperledger Fabric Practitioner and Blockchain Developer with Expertise in API Development</h3>
+  <h3>Certified Hyperledger Fabric Practitioner || Blockchain Core Developer with Expertise in API Development and building dApps</h3>
 </div>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1774872/screenshots/5477893/media/5429f443d929b6f56e21792899af311a.gif">
 
